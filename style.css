@@ -1,0 +1,20 @@
+td,
+th {
+  text-align: left;
+}
+body {
+  color: #a79088;
+  background-color: #433431
+}
+table {
+  border-spacing: 15px;
+}
+a {
+  color: #dfd1c4;
+}
+input{
+  background-color: #433431;
+}
+textarea{
+  background-color: #433431;
+} 
